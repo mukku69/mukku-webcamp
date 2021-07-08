@@ -1,16 +1,18 @@
-### Hi there 👋
+# 自己紹介
 
-<!--
-**hikaru-webcamp/hikaru-webcamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+静岡出身の29歳男性です。ものづくりとプログラミングが好きです。  
+前職は、3DCAD（図面作成やモデリング）を使って自動車部品の設計士をしていました。
+プログラミング以外の趣味はサウナに行くこと、キャンプです。  
 
-Here are some ideas to get you started:
+## キャリア
+|  期間  |  経歴  |
+| ---- | ---- |
+|  13/4-15/3  |情報専門学校 CAD科|
+|  15/4-21/4  |機械設計士|
+|  21/4-21/現在  |プログラミングスクールDMMWEBCAMPと独学|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Link
+[Twitter](https://twitter.com/utyuzinpro)
+[ポートフォリオ](https://shuffle21.xyz/)
+
