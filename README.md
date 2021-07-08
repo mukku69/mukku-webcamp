@@ -1,4 +1,6 @@
 # 自己紹介
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikaru-webcamp&show_icons=true&theme=dark)
+
 
 静岡出身の29歳男性です。ものづくりとプログラミングが好きです。  
 前職は、3DCAD（図面作成やモデリング）を使って自動車部品の設計士をしていました。
